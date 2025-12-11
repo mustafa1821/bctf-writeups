@@ -86,7 +86,7 @@ These write-ups document the role of AI assistance in:
 
 ## Competition Details
 
-- **Event**: [Competition Name]
+- **Event**: BuckeyeCTF
 - **Date**: November 2025
 - **Team/Individual**: Individual
 - **Total Points**: 276+ points
